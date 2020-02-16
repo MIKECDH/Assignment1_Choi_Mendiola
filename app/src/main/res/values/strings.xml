@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Choi_Mendiola</string>
+    <string name="loading_msg">Loading...</string>
+    <string name="author_label">Author: </string>
+    <string name="publishedAt_label">Published At: </string>
+    <string name="searchbar_hint">Enter a keyword</string>
+    <string name="app_headline">Search for News</string>
+    <string name="empty_searchbar_msg">"Please enter a word before pressing the search button!"</string>
+</resources>
